@@ -1,1 +1,1 @@
-# -Secure-Chat-with-OpenSSL-and-MITM-Attacks
+# Secure-Chat-with-OpenSSL-and-MITM-Attacks
